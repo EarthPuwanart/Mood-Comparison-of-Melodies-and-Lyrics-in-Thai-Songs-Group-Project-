@@ -7,8 +7,3 @@ To achieve this, we utilized data processing and machine learning techniques, de
 > **Note:** The code in this repository represents only a portion of the project. It specifically contains the sections that I was responsible for, focusing on the development of the mood classification model for melodies.
 
 This project provided valuable insights into the relationship between musical elements and lyrical content, as well as practical experience in building and evaluating machine learning models for real-world applications.
-
-## Additional Resources
-
-For all additional data files related to this project, please visit:  
-[Google Drive Link](https://drive.google.com/drive/folders/1h2BMwt4sRWl3UxLtV4yxhCltQcHsEaFa?usp=sharing)
