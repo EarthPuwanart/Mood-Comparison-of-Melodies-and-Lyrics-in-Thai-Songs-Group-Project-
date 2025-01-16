@@ -1,4 +1,4 @@
-# **Project: Mood Classification of Melodies and Lyrics**
+# **Project: Mood Comparison of Melodies and Lyrics in Thai Song**
 
 In this project, I led a team of 5 students to develop classification models aimed at analyzing the mood of Thai songs, focusing on both their melodies and lyrics. Our primary goal was to predict the emotions conveyed by these components and determine whether the predicted moods were consistent with each other.
 
